@@ -1,5 +1,5 @@
 {
-  "name": "fcasino-project-copy",
+  "name": "fcasino-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -25,7 +25,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "stop": "taskkill -F -IM node.exe",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
